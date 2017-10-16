@@ -15,7 +15,7 @@ headers = {
                   'Chrome/56.0.2924.87 Safari/537.36',
     'Referer': "http://www.mmjpg.com"
 }
-dir_path = r"E:\mmjpg"      # 下载图片保存路径
+dir_path = r"~/Desktop/ld"      # 下载图片保存路径
 
 
 def save_pic(pic_src, pic_cnt):
